@@ -1,2 +1,3 @@
 # test-repo
-testing out this repository
+
+we are creating examples of using GIT!
